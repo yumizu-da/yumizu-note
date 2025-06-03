@@ -59,5 +59,3 @@ MIT
 If you end up using webtrotion, please consider buying me a coffee here:
 
 [Support Nerdy Momo Cat on Ko-fi! ❤️. ko-fi.com/nerdymomocat](https://ko-fi.com/nerdymomocat)
-# yumizu-note
-# yumizu-note
