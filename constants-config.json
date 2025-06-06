@@ -73,7 +73,7 @@
 		"shiki-transform": "<<shiki-transform>>",
 		"table": "<<🗂️>>"
 	},
-	"recent-posts-on-home-page": false,
+	"recent-posts-on-home-page": true,
 	"theme": {
 		"colors": {
 			"bg": {
@@ -116,7 +116,7 @@
 	"enable-lightbox": true,
 	"menu-pages-collection": "main",
 	"heading-blocks": ["heading_1", "heading_2", "heading_3"],
-	"full-preview-collections": [],
+	"full-preview-collections": ["Stream"],
 	"hide-underscore-slugs-in-lists": true,
 	"home-page-slug": "",
 	"all-footnotes-page-slug": "_all-footnotes",
